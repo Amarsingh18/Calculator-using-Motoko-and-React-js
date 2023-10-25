@@ -1,0 +1,6 @@
+service : {
+  add: (nat, nat) -> (nat);
+  divide: (nat, nat) -> (nat);
+  multiply: (nat, nat) -> (nat);
+  subtract: (int, int) -> (int);
+}
